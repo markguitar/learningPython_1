@@ -1,4 +1,4 @@
-guitar_parts = ["body", "neck", "bridge", "nut"]
+guitar_parts = ["body", "neck", "bridge", "scratch-plate"]
 
 for part in guitar_parts:
     print(part)
